@@ -1,5 +1,5 @@
 from collections import deque
-
+## BFS(너비우선 탐색) ##
 def bfs(x):
   queue = deque([x])
   visited[x] = True
