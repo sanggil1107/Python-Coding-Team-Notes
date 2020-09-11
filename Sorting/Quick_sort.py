@@ -1,4 +1,4 @@
-
+## 선택 정렬 ##
 data = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
 
 def quick_sort(data, start, end):
