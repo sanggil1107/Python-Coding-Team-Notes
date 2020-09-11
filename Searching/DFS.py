@@ -1,4 +1,4 @@
-
+## DFS(깊이우선 탐색) ##
 def dfs(x):
   print(x, end = ' ')
   visited[x] = True
