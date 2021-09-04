@@ -1,0 +1,1 @@
+d = [[0] * x for _ in range(y)]
